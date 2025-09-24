@@ -1,4 +1,4 @@
-package discordwebhook
+package discord-web-hook
 
 type Message struct {
 	Username        *string          `json:"username,omitempty"`
