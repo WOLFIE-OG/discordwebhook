@@ -4,7 +4,7 @@ This package provides a super simple interface to send discord messages through 
 
 ### Installation
 ```
-go get github.com/gtuk/discordwebhook
+go get https://github.com/WOLFIE-OG/discordwebhook
 ```
 
 ### Example
